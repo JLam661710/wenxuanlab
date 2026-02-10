@@ -5,7 +5,7 @@ export default defineConfig({
   description: "极简禅意数字花园",
   lang: 'zh-CN',
   cleanUrls: true,
-  outDir: 'dist',
+  outDir: '.vitepress/dist',
   themeConfig: {
     logo: '/logo.jpeg',
     siteTitle: false,
