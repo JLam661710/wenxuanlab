@@ -13,19 +13,19 @@
 
 我甚至希望这些界面能像屏风一样展开，既有晶体的通透感，又有折纸的秩序感。这就是 Jerry 的灵魂：用“响应式/生成式 UI”来完成任务，而对话只是最后的兜底。
 
-## 配图展示
+## images展示
 
 ::: gallery
-![配图/01 旧的 chatbot 模式/01screenshot-1770643622121.png](./%E9%85%8D%E5%9B%BE/01%20%E6%97%A7%E7%9A%84%20chatbot%20%E6%A8%A1%E5%BC%8F/01screenshot-1770643622121.png)
+![images/old-mode/01screenshot-1770643622121.png](./images/old-mode/01screenshot-1770643622121.png)
 
-![配图/01 旧的 chatbot 模式/02screenshot-1770643631404.png](./%E9%85%8D%E5%9B%BE/01%20%E6%97%A7%E7%9A%84%20chatbot%20%E6%A8%A1%E5%BC%8F/02screenshot-1770643631404.png)
+![images/old-mode/02screenshot-1770643631404.png](./images/old-mode/02screenshot-1770643631404.png)
 
-![配图/01 旧的 chatbot 模式/03screenshot-1770643646823.png](./%E9%85%8D%E5%9B%BE/01%20%E6%97%A7%E7%9A%84%20chatbot%20%E6%A8%A1%E5%BC%8F/03screenshot-1770643646823.png)
+![images/old-mode/03screenshot-1770643646823.png](./images/old-mode/03screenshot-1770643646823.png)
 
-![配图/02 新的界面形态-原型/01screenshot-1770643673936.png](./%E9%85%8D%E5%9B%BE/02%20%E6%96%B0%E7%9A%84%E7%95%8C%E9%9D%A2%E5%BD%A2%E6%80%81-%E5%8E%9F%E5%9E%8B/01screenshot-1770643673936.png)
+![images/new-proto/01screenshot-1770643673936.png](./images/new-proto/01screenshot-1770643673936.png)
 
-![配图/02 新的界面形态-原型/02screenshot-1770643684127.png](./%E9%85%8D%E5%9B%BE/02%20%E6%96%B0%E7%9A%84%E7%95%8C%E9%9D%A2%E5%BD%A2%E6%80%81-%E5%8E%9F%E5%9E%8B/02screenshot-1770643684127.png)
+![images/new-proto/02screenshot-1770643684127.png](./images/new-proto/02screenshot-1770643684127.png)
 
-![配图/02 新的界面形态-原型/03screenshot-1770643512990.png](./%E9%85%8D%E5%9B%BE/02%20%E6%96%B0%E7%9A%84%E7%95%8C%E9%9D%A2%E5%BD%A2%E6%80%81-%E5%8E%9F%E5%9E%8B/03screenshot-1770643512990.png)
+![images/new-proto/03screenshot-1770643512990.png](./images/new-proto/03screenshot-1770643512990.png)
 
 :::

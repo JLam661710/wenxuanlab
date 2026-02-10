@@ -74,23 +74,23 @@ AI 也会充当“超级执行层”：它会在后台自动规划、调用合�
 这不仅仅是工具的升级，更是个体能力的觉醒。在这个 AI 时代，让我们一起打破技术的围墙，真正实现“三头六臂、无所不能”的数字化自由。
 
 
-## 配图展示
+## images展示
 
 ::: gallery
-![slide_01.jpeg](./%E9%85%8D%E5%9B%BE/slide_01.jpeg)
+![slide_01.jpeg](./images/slide_01.jpeg)
 
-![slide_02.jpeg](./%E9%85%8D%E5%9B%BE/slide_02.jpeg)
+![slide_02.jpeg](./images/slide_02.jpeg)
 
-![slide_03.jpeg](./%E9%85%8D%E5%9B%BE/slide_03.jpeg)
+![slide_03.jpeg](./images/slide_03.jpeg)
 
-![slide_04.jpeg](./%E9%85%8D%E5%9B%BE/slide_04.jpeg)
+![slide_04.jpeg](./images/slide_04.jpeg)
 
-![slide_05.jpeg](./%E9%85%8D%E5%9B%BE/slide_05.jpeg)
+![slide_05.jpeg](./images/slide_05.jpeg)
 
-![slide_06.jpeg](./%E9%85%8D%E5%9B%BE/slide_06.jpeg)
+![slide_06.jpeg](./images/slide_06.jpeg)
 
-![slide_07.jpeg](./%E9%85%8D%E5%9B%BE/slide_07.jpeg)
+![slide_07.jpeg](./images/slide_07.jpeg)
 
-![slide_08.jpeg](./%E9%85%8D%E5%9B%BE/slide_08.jpeg)
+![slide_08.jpeg](./images/slide_08.jpeg)
 
 :::

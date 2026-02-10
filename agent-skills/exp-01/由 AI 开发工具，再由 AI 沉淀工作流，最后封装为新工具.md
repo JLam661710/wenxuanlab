@@ -1,4 +1,6 @@
-「Agent 自进化开发范式」
+# Agent 自进化开发范式
+
+![示意漫画创作 Skill](./images/manga-skill-demo.jpeg)
 
 实践方式：由 AI 开发工具，再由 AI 沉淀工作流，最后封装为新工具
 将开发过程从传统的“写代码”转变为“ 定义能力 -> 跑通流程 -> 固化经验 ”的三个阶段。
@@ -41,12 +43,12 @@
 ## 配图展示
 
 ::: gallery
-![01NanoBanana_20260209_210038.png](./%E9%85%8D%E5%9B%BE/01NanoBanana_20260209_210038.png)
+![01NanoBanana_20260209_210038.png](./images/01NanoBanana_20260209_210038.png)
 
-![02NanoBanana_20260209_210153.png](./%E9%85%8D%E5%9B%BE/02NanoBanana_20260209_210153.png)
+![02NanoBanana_20260209_210153.png](./images/02NanoBanana_20260209_210153.png)
 
-![03NanoBanana_20260209_210325.png](./%E9%85%8D%E5%9B%BE/03NanoBanana_20260209_210325.png)
+![03NanoBanana_20260209_210325.png](./images/03NanoBanana_20260209_210325.png)
 
-![04NanoBanana_20260209_210402.png](./%E9%85%8D%E5%9B%BE/04NanoBanana_20260209_210402.png)
+![04NanoBanana_20260209_210402.png](./images/04NanoBanana_20260209_210402.png)
 
 :::

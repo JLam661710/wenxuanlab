@@ -9,7 +9,7 @@ title: 个人简介
   <img src="/avatar.jpeg" alt="LinWenXuan" class="w-32 h-32 rounded-full object-cover shadow-lg mb-4" />
   <h2 class="text-2xl font-light text-center border-b-0 pb-0">
     林文玄<br>
-    <span class="text-xl text-gray-500">技术人文主义者 & 工程实践者</span>
+    <span class="text-sm text-gray-500">技术人文主义者 & 工程实践者</span>
   </h2>
 </div>
 
@@ -17,7 +17,7 @@ title: 个人简介
 
 在 Vibe Coding 逐渐重塑软件工程范式的当下，我致力于透过表层的工具应用，解构技术背后的中介化机制（Mediation）。我的实践拒绝止步于黑盒式的“魔法体验”，而是主张建立具有 可解释性 与 穿透力 的中间层架构。
 
-我坚持“批判性建设”的方法论：通过将感性的交互体验（Vibe）转化为理性的结构化框架（Framework），探索从“自然语言模糊交互”到“确定性工程交付”的转化路径。我试图在技术洪流中捍卫人的认知主权，构建一种兼具哲学反思与工程精度的 AI 协作新范式 。
+我坚持“批判性建设”的方法论：通过将交互体验（Vibe）转化为结构化框架（Framework），探索从“自然语言模糊交互”到“确定性工程交付”的转化路径。我试图在技术洪流中捍卫人的认知主权，构建一种兼具哲学反思与工程精度的 AI 协作新范式 。
 
 在这里，我将通过四个维度的实践，与你共同构建 AI 时代的认知护城河：
 

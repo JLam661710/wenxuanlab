@@ -14,21 +14,21 @@ hero:
       link: /about
     - theme: alt
       text: 浏览项目
-      link: /project-maia/01 缘起（1）/
+      link: /project-maia/origin-2/Maia作为一种技术人文主义实践
 
 features:
   - title: "AI Coding 的心得、收获和建议<br>——用武侠小说的方式打开"
     details: 深入 AI Coding 的底层逻辑与心法，像侠客一样修炼内功。
-    link: /ai-coding/00 用武侠漫画的方式打开-示例/示例 1/
+    link: /ai-coding/comic-demo/example-1/
   - title: "智能体应用程序产品开发<br>——Project Maia（多智能体驱动的 AI 产品战略访谈局）"
     details: 从 PawsomeArt 到 Project Maia，见证智能体产品的诞生。
-    link: /project-maia/01 缘起（1）/
+    link: /project-maia/origin-2/Maia作为一种技术人文主义实践
   - title: "AI Coding 赋能实体制造与商业化<br>——PawsomeArt（宠物艺术定制文创）"
     details: AI Coding 开发品牌独立站辅助商业推广与变现。
-    link: /pawsome-art/AI Coding 开发品牌独立站辅助商业推广与变现/01 PawsomeArt 作品与展览/
+    link: /pawsome-art/brand-site/exhibition/
   - title: "智能体范式下的工具开发<br>——Agent's Skills（智能体技能）"
     details: 打造属于你的智能体技能库，沉淀可复用的工作流。
-    link: /agent-skills/01 实验一：智能体技能的嵌套式开发/由 AI 开发工具，再由 AI 沉淀工作流，最后封装为新工具
+    link: /agent-skills/exp-01/由 AI 开发工具，再由 AI 沉淀工作流，最后封装为新工具
 ---
 
 <style>
