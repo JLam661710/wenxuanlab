@@ -1,0 +1,79 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+:root {
+  /* Override VitePress variables for Zen Theme */
+  --vp-c-bg: #ffffff;
+  --vp-c-bg-alt: #fafafa;
+  --vp-c-bg-elv: #ffffff;
+  
+  --vp-c-text-1: #1a1a1a;
+  --vp-c-text-2: #4a4a4a;
+  
+  --vp-c-brand: #000000;
+  --vp-c-brand-1: #222222;
+  --vp-c-brand-2: #444444;
+  --vp-c-brand-3: #666666;
+  
+  --vp-button-brand-bg: #000000;
+  --vp-button-brand-text: #ffffff;
+  --vp-button-brand-hover-bg: #333333;
+  
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #000000 30%, #666666);
+  
+  /* Typography & Spacing for "Breathing Room" */
+  --vp-custom-block-tip-bg: var(--vp-c-bg-alt);
+  --vp-custom-block-tip-border: var(--vp-c-brand);
+  --vp-custom-block-info-bg: var(--vp-c-bg-alt);
+  
+  /* Sidebar adjustments */
+  --vp-sidebar-bg-color: #ffffff;
+  --vp-sidebar-width: 300px; /* Slightly wider for long titles */
+}
+
+/* Custom rounded aesthetic */
+.vp-doc img {
+  @apply rounded-xl border border-gray-100 shadow-sm my-8; /* Added margin-y for breathing room */
+  transition: transform 0.3s ease;
+}
+
+.vp-doc img:hover {
+  @apply shadow-md;
+}
+
+.VPNavBar {
+  @apply border-b border-gray-100;
+}
+
+/* Minimalist Button overrides */
+.VPButton.brand {
+  @apply rounded-full px-6 py-2 transition-transform duration-200 hover:scale-105;
+}
+
+.VPButton.alt {
+  @apply rounded-full px-6 py-2 border border-gray-200 bg-white text-black hover:bg-gray-50;
+}
+
+/* Typography Enhancements */
+.vp-doc p {
+  @apply leading-8 tracking-wide text-gray-800 mb-6; /* More line-height, more margin */
+}
+
+.vp-doc h2 {
+  @apply mt-16 mb-6 border-none; /* Remove default underline, use space instead */
+}
+
+.vp-doc h3 {
+  @apply mt-10 mb-4;
+}
+
+/* Zoom overlay customization */
+.medium-zoom-overlay {
+  z-index: 1000 !important; /* Ensure it's on top of navbar */
+}
+
+.medium-zoom-image--opened {
+  z-index: 1001 !important;
+}

@@ -1,0 +1,30 @@
+{
+  "name": "wenxuan-lab-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "start": "vitepress preview --host 0.0.0.0 --port ${PORT:-4173}",
+    "preview": "vitepress preview",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^3.4.17",
+    "vitepress": "^1.5.0"
+  },
+  "dependencies": {
+    "medium-zoom": "^1.1.0"
+  }
+}
